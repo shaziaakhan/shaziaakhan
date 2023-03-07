@@ -12,7 +12,7 @@ Hi 👋, I'm Shazia Khan<br>A passionate programmer, enthusiastic about Data Sci
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shaziaakhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaziaakhan&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaziaakhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaziaakhan&langs_count=8&layout=compact)](https://github.com/shaziaakhan/github-readme-stats)
 
 
 
