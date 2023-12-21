@@ -2,7 +2,7 @@
 Hi 👋, I'm Shazia Khan<br>A passionate programmer, enthusiastic about Data Science, pursuing an Integrated MTech degree in BioEngineering. Developer from India.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shaziaakhan&icon=0&color=9)](https://visitcount.itsvg.in)
+
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/shazia-t-khan) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/shaziakhan2002)
