@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shazia Khan<br>A passionate programmer, enthusiastic about Data Science & Bioinformatics, pursuing an Integrated MTech degree in BioEngineering.<br>Developer from India.<br>
+Hi 👋, I'm Shazia Khan<br>A passionate programmer, enthusiastic about Data Science & Bioinformatics, pursuing an BTech degree in BioEngineering.<br>Developer from India.<br>
 
 
 ## 🌐 Socials:
