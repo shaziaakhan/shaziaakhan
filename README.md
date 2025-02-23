@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shazia Khan<br>A passionate programmer, enthusiastic about Data Science & Bioinformatics, pursuing a BTech degree in BioEngineering.<br>Developer from India
-
+Hi 👋, I'm Shazia Khan<br>A passionate programmer, enthusiastic about Data Science & Artificial Intelligence, pursuing a BTech degree in BioEngineering.<br>Developer from India
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shazia-t-khan/) 
@@ -14,15 +13,8 @@ Hi 👋, I'm Shazia Khan<br>A passionate programmer, enthusiastic about Data Sci
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shaziaakhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-## GSSoC'24 Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  </a>
-</div>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shaziaakhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
