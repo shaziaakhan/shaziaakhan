@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shazia Khan<br>A passionate programmer, enthusiastic about Data Science & Artificial Intelligence, pursuing a BTech degree in BioEngineering.<br>Developer from India
+Hi 👋, I'm Shazia Khan<br>A passionate programmer, enthusiastic about Data Science & Artificial Intelligence, Working as an AI engineer at Nihilent Ltd.<br>Developer from India
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shazia-t-khan/) 
